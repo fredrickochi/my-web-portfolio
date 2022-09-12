@@ -1,0 +1,72 @@
+<html>
+    <head>
+    <link href="my style.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>  
+        <nav>
+        <ul><logo>Fredrick Ochieng</logo>
+
+            <li><a href="homepage.html" alt="homepage">HOME</a></li>
+            <li><a href="about.html" alt="about">ABOUT</a></li>
+            <li><a href="contact.html" alt="CONTACT">CONTACT</a></li>
+
+        </ul>
+    </nav>
+        <div>
+            <h1>My Resume</h1>
+        
+            <h2>EDUCATION</h2>
+            <h3>University of Nairobi</h3>
+            <ol>
+                <li>Certificate in software engineering 2022</li>
+                <li>Bachelor's degree in Industrial chemistry2025</li>
+                <li>Self taught web designing</li>
+            </ol>
+
+        </div>
+        <h1>WORK</h1>
+        <div>
+            <p>Have been working as an industrial chemistry expert in simba cement company limited as the operation manager.
+                <br>I am the founder of Inuka youth Foundation(I.Y.F).
+            </p>
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <br>
+
+
+
+        <p> <div>
+            <header>
+
+         <a class ="social-icon" href="https://www.youtube.com/channel/UClh4zV9U8wpllhvVtUD6ryQ" target="_blank">
+            <ion-icon name="logo-youtube"></ion-icon>
+         </a>
+
+         <a class ="social-icon" href="https://twitter.com/Fredrick_delch" target="_blank">
+            <ion-icon name="logo-twitter"></ion-icon>
+         </a>
+         <a class ="social-icon" href="https://instagram.com/Fredian_prince" target="_blank">
+         <ion-icon name="logo-instagram"></ion-icon>
+        </a>
+
+        <a class ="social-icon" href="https://github.com/Fredrickochi" target="_blank">
+            <ion-icon name="logo-github"></ion-icon>
+        </a>
+        <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+            </header>
+        </div>   
+        </p>
+    </body>
+</html>
